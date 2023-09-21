@@ -5,3 +5,5 @@ In the above code, you can find the endpoint as /authenticate  which returns jwt
 
 Step 2: Intercept all the incoming requests
 Extract JWT from the header and validate and set it in the execution context   
+
+step 3 : test in the postman 
